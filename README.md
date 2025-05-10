@@ -5,11 +5,6 @@ A full-stack web application inspired by the traditional "Khatabook" system — 
 
 ---
 
-
-
-## 📦 Repository
-[GitHub - khatabook-pjt](https://github.com/pawarekant/khatabook-pjt)
-
 ---
 
 ## 🛠️ Tech Stack
