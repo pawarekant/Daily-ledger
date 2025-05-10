@@ -45,6 +45,9 @@ khatabook-pjt/ ├── config/ # Configuration files (e.g., DB setup, middlewa
 
 
 ---
+📫 Let's Connect
+LinkedIn – www.linkedin.com/in/ekant-pawar-0339742b7
+GitHub – https://github.com/pawarekant
 
 ## 🚀 How to Run Locally
 
@@ -60,9 +63,8 @@ SESSION_SECRET=your_secret_key
 
 3. node app.js
 
-📫 Let's Connect
-LinkedIn – www.linkedin.com/in/ekant-pawar-0339742b7
-GitHub – https://github.com/pawarekant
+_____
+
 
 
 
