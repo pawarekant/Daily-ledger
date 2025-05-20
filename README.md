@@ -1,5 +1,6 @@
 ﻿
-# 📘 DailyLedger- Finance Management App
+# 📘 DailyLedger- Finance Management site
+
 
 A full-stack web application inspired by the traditional "Khatabook" system — allowing users to securely manage their **Finance (records)**, track activity, and maintain a clean personal ledger.
 
